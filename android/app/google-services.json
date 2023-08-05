@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "262647186042",
+    "project_id": "tijam-316703",
+    "storage_bucket": "tijam-316703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262647186042:android:7440c67301e3cdd36331c3",
+        "android_client_info": {
+          "package_name": "com.tijam_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262647186042-42fghj7unc0ffjlk32ei637du5t7ch1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tijam_mobile",
+            "certificate_hash": "046e4a6e6da0613ff177b12df67928abfb0711c7"
+          }
+        },
+        {
+          "client_id": "262647186042-4j1em0gptlp9si0mtq68h35t7ndmfs69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tijam_mobile",
+            "certificate_hash": "47173046887d4e0f279286ac8d6f7201dac868d8"
+          }
+        },
+        {
+          "client_id": "262647186042-nflefdoapv43uegb4ajs93m9sc99va8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tijam_mobile",
+            "certificate_hash": "7f1d2e26c1406d0a090a7700fb142af34b5199bd"
+          }
+        },
+        {
+          "client_id": "262647186042-uh1t4q7iighadc6c0mmmdege42usqgi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tijam_mobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "262647186042-4bm6o2kl7k0duq2etk28f6gt693usgtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZBZ99hwuthgIovXk0eSeKDh6rql5tdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262647186042-4bm6o2kl7k0duq2etk28f6gt693usgtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262647186042:android:a70a54d80b92065c6331c3",
+        "android_client_info": {
+          "package_name": "com.zipenter.where"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262647186042-618ls1il7dfdi82uj19t9obih4uj33do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zipenter.where",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "262647186042-7unee9l2ocn6cqe003ecpsa13dc23v1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zipenter.where",
+            "certificate_hash": "b07a2836c4b6200e5ee984a7a856ef95ee7bda5f"
+          }
+        },
+        {
+          "client_id": "262647186042-edbcqdhjv5agsli2bv5in92rk7mu9bpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zipenter.where",
+            "certificate_hash": "0d1c12c59c28d8125359174143f824e5c2fd74a3"
+          }
+        },
+        {
+          "client_id": "262647186042-4bm6o2kl7k0duq2etk28f6gt693usgtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZBZ99hwuthgIovXk0eSeKDh6rql5tdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262647186042-4bm6o2kl7k0duq2etk28f6gt693usgtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

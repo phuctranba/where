@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Where</string>
+    <string name="deep_link">zipenter.where</string>
+    <string name="CodePushDeploymentKey">@string/CODE_PUSH_ANDROID_KEY</string>
+    <string name="facebook_app_id">848898993252602</string>
+    <string name="facebook_client_token">15dd90822ad0870d5a77bec3d42237de</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>536912109173-nh2kkng1pn44831iai11n064r8of7o0m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.536912109173-nh2kkng1pn44831iai11n064r8of7o0m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>536912109173-50fso9dgecmma70765eg96rkooulo83t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBk5184DyXjlQXYUlvi-WWhwlTADSM30Fk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>536912109173</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iceo.law.ai</string>
+	<key>PROJECT_ID</key>
+	<string>ai-law-46d30</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ai-law-46d30.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true></true>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:536912109173:ios:b2700dfef32c532d5a623c</string>
+</dict>
+</plist>

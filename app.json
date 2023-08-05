@@ -1,0 +1,8 @@
+{
+  "name": "law_ai",
+  "displayName": "law_ai",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-9764638132493814~8121388124",
+    "ios_app_id": "ca-app-pub-9764638132493814~4243346153"
+  }
+}
